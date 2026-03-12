@@ -16,23 +16,24 @@ IntegraatioFest kiertää vuosittain eri kaupungeissa, ja sivun alaosasta voit l
 
 Nro | Vuosi | Paikka | Nimi
 ----|--------|---------|----------
-XXV |   2025 |  Otaniemi
-XXIV |	2024 |	Turku |	
+XXVI  | 2026 |  Oulu
+XXV   | 2025 |  Otaniemi
+XXIV  |	2024 |	Turku |	
 XXIII |	2023 |	Lappeenranta |	
-XXII |	2022 |	Tampere |
-XXI |	2021 |	Helsinki | 
-XX |	2020 |	- |
-XIX |	2019 |	Jyväskylä |	🠉<b>Integraatiofest</b>
+XXII  |	2022 |	Tampere |
+XXI   |	2021 |	Helsinki | 
+XX    |	2020 |	- |
+XIX   |	2019 |	Jyväskylä |	🠉<b>Integraatiofest</b>
 XVIII |	2018 |	Oulu |	
-XVII |	2017 |	Kuopio |	
-XVI |	2016 |	Otaniemi |	
-XV |	2015 |	Tampere |	
-XIV |	2014 |	Turku |	
-XIII |	2013 |	Helsinki |	
-XII |	2012 |	Jyväskylä |	
-XI |	2011 |	Oulu |	
-X |	2010 |	Tampere |	
-IX |	2009 |	Otaniemi |	
+XVII  |	2017 |	Kuopio |	
+XVI   |	2016 |	Otaniemi |	
+XV    |	2015 |	Tampere |	
+XIV   |	2014 |	Turku |	
+XIII  |	2013 |	Helsinki |	
+XII   |	2012 |	Jyväskylä |	
+XI    |	2011 |	Oulu |	
+X     |	2010 |	Tampere |	
+IX    |	2009 |	Otaniemi |	
 VIII |	2008 |	Tampere |	
 VII |	2007 |	Turku |	
 VI |	2006 |	Tampere |	
